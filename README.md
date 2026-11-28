@@ -126,6 +126,13 @@ variables/testdata.robot
 - Implement login assertions
 - Verify execution results
 
+
+**Test Results**
+TC-01 Successful Login:	Passed
+TC-02 Invalid Login_	Passed
+Execution Summary:
+2 tests, 2 passed, 0 failed
+
 ---
 
 ## Emma – Products & Cart
